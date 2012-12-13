@@ -29,8 +29,9 @@ Notice that it is the job of the environment and the language to explain what wo
 * Don't Repeat Yourself  
 * Model-View-Controller
 * Convention over Configuration
-* Verb-subject-object (i.e split input_string on WHITE_SPACE)
+* Verb-subject-object (i.e split input_message on WHITE_SPACE)
 * Let Domain-specific language define a file extension where it applies
 * meta-data in source code where it's visibility is set by IDE (/*~ */)
-* /*~ { */dance robot /*~ ;} */ when it is time_to_dance
+* dance robot, when it is time_to_dance. Else when robot is sad, cheerUp robot. Otherwise readBook robot.
+* Wait! Is the convention of lowercase variable, Uppercase class names backwards from what you would consider proper nouns? (the distinct, named objects are the variables)
 

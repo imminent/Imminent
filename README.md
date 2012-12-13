@@ -20,3 +20,17 @@ Should answer the following questions
 
 Notice that it is the job of the environment and the language to explain what words mean. The language does this through readability, semantic meaning. And the environment does this by being about to explain things in context.
 
+## Brainstorm ##
+* Request passing (much like message passing Objective-C/Smalltalk)
+* Proguard-like shrinking/optimization/obfuscation
+* ARC memory management
+* Domain-specific language support
+* RubyGem-like dependency management
+* Don't Repeat Yourself  
+* Model-View-Controller
+* Convention over Configuration
+* Verb-subject-object (i.e split input_string on WHITE_SPACE)
+* Let Domain-specific language define a file extension where it applies
+* meta-data in source code where it's visibility is set by IDE (/*~ */)
+* /*~ { */dance robot /*~ ;} */ when it is time_to_dance
+

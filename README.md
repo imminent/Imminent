@@ -35,7 +35,8 @@ Notice that it is the job of the environment and the language to explain what wo
 * meta-data in source code where it's visibility is set by IDE (/*~ */)
 * dance robot, when it is time_to_dance. Else when robot is sad, cheerUp robot. Otherwise readBook robot.
 * Wait! Is the convention of lowercase variable, Uppercase class names backwards from what you would consider proper nouns? (the distinct, named objects are the variables)
- 
+* "**The entire purpose of code is to manipulate data, and we never see the data.**" - Bret Victor, Tufte says, "Show the data."
+
 /~ request ~/get a car from the/~ request ~//~ object ~/Car Factory/~ object ~/, and /~ request ~/paint/~ request ~/ it /~ choice ~//~ choice ~//~ object ~/Black/~ object ~/, and /~ request ~/run service on/~ request ~/ it /~ choice ~/at the/~ choice ~//~ object ~/Auto Shop/~ object ~/. /~ { ~//~ request ~/drive/~ request ~/ it /~ option ~//~ option ~//~ object ~/Home/~ object ~//~ } ~/ if it is /~ property ~/running fine/~ property ~/, otherwise /~ request ~/take/~ request ~/it /~ option ~/back to the/~ option ~//~ object ~/Car Factory/~ object ~/
 
 Get a car from the Car Factory, and paint it Black, and run service on it at the Auto Shop. Drive it Home if it is running fine, otherwise take it back to the Car Factory.
